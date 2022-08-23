@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>data</servlet-name>
+<servlet-class>com.motivity.Registration</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>data</servlet-name>
+<url-pattern>/userregisteration</url-pattern>
+</servlet-mapping>
+</web-app>
